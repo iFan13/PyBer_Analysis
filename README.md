@@ -6,6 +6,8 @@ V. Isualize has requested a summary of information for PyBer. This is to be acom
 
 ## Results
 
+The following dataframe and graphs are produced by the code found [here](PyBer.ipynb) where the raw data can be found for cities and ride [here](Resources/city_data.csv) and [here](Resources/ride_data.csv) respectively.
+
 ![PyBer Summary](analysis/PyBer_Summary_df.png)
 
 There is a lot of available information from the summary dataframe shown above.
