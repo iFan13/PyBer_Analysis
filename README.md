@@ -23,7 +23,7 @@ As suggested by the ride & driver distribution, the total fares of each individu
 
 ![PyBerFareSummary](analysis/PyBer_fare_summary.png)
 
-![PyBerFareDistribution](Fares_by_City_Distribution.png)
+![PyBerFareDistribution](analysis/Fares_by_City_Distribution.png)
 
 Notably, PyBer use increases in Urban and suburban cities from January to close to the end of February. One potential explanation for this could be post-holiday return to work patterns. Another potential explanation is dependent on the climate of the cities. Are the cities perhaps in high latitude locations? (ie: the Northern Hemisphere) where temperatures in winter drop and encourage ride usages.
 
